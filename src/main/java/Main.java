@@ -7,5 +7,6 @@ public class Main {
         System.out.print("倒闭了");
         System.out.println("待着小姨子跑了");
         System.out.println("跑就跑了");
+        System.out.println("统统2块钱");
     }
 }
