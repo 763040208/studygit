@@ -9,5 +9,6 @@ public class Main {
         System.out.println("跑就跑了");
         System.out.println("统统2块钱");
         System.out.println("666");
+        System.out.println("如玉如意");
     }
 }
